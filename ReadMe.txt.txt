@@ -1,4 +1,4 @@
-OrangeHRM
+OrangeHRM_Project_1
 
 OrangeHRM is a comprehensive human resources management software that helps organizations manage their employee data, recruitment, performance management, training, and other HR functions.
 
